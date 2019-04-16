@@ -19,3 +19,34 @@ Important information (cached):
 * Environment: http://ml.cdyne.com/Deep_Learning_Ubuntu_16.04_16-bit_2018_update.tar.gz
 * VMware: http://www.vmware.com/products/player/playerpro-evaluation.html
 * The username is ‘deeplearning’ and the password is ‘deeplearning’.
+
+2. Cloud hosted using AWS with an AMI (Amazon Machine Image): Link: https://aws.amazon.com/marketplace/pp/B01EYKBEQ0/ref=_ptnr_wp_blog_post. Designed for developers as well as those eager to get started with the TensorFlow Deep Learning Framework.
+Develop with Python using Jupyter Notebook. Udacity assignments for Deep Learning with TensorFlow are pre-installed.
+Feature List:
+  * Ubuntu 14 Linux
+  * Nvidia Drivers
+  * Cuda 7.5 Toolkit
+  * cuDNN 5.1
+  * TensorFlow 1.1.0
+  * TFLearn
+  * TensorBoard
+  * Keras
+  * Magenta
+  * scikit-learn
+  * Python 2 & 3
+  * Hyperas
+  * PyCuda
+  * Pandas
+  * NumPy
+  * SciPy
+  * Matplotlib
+  * h5py
+  * Enum34
+  * SymPy
+  * OpenCV
+  * Jupyter to leverage Nvidia GPU as well as CPU instances.  
+  
+3. Local development environment using Powershell and Python (incomplete)
+  To use TFLearn you must install Curses however, Windows 10 is not supported. The workaround is to use windows-curses: https://pypi.org/project/windows-curses/
+  Install using powershell command: pip install windows-curses
+  
