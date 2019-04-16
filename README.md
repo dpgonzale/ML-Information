@@ -47,6 +47,25 @@ Feature List:
   * Jupyter to leverage Nvidia GPU as well as CPU instances.  
   
 3. Local development environment using Powershell and Python (incomplete)
+ Anaconda Windows (untested): https://www.anaconda.com/, https://docs.anaconda.com/anaconda/install/windows/
+  * Python 2.7: https://repo.anaconda.com/archive/Anaconda2-2019.03-Windows-x86_64.exe
+  * Python 3.7: https://repo.anaconda.com/archive/Anaconda3-2019.03-Windows-x86_64.exe
+ Anaconda featues:
+  * Conda - https://conda.io/en/latest/
+  * scikit-learn - https://scikit-learn.org/stable/
+  * TensorFlow - https://www.tensorflow.org/
+  * Theano - https://pypi.org/project/Theano/
+  * Dask - https://dask.org/
+  * NumPy - http://www.numpy.org/
+  * pandas - https://pandas.pydata.org/
+  * Numba - http://numba.pydata.org/
+  * Matplotlib - https://matplotlib.org/
+  * Bokeh - https://bokeh.pydata.org/en/latest/
+  * Datashader - http://datashader.org/
+  * Holoviews - http://holoviews.org/
+  
+  
+ Direct download 
   To use TFLearn you must install Curses however, Windows 10 is not supported. The workaround is to use windows-curses: https://pypi.org/project/windows-curses/
   Install using powershell command: pip install windows-curses
   
