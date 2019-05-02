@@ -1,9 +1,9 @@
 # ML-Information
 AI and Machine Learning setup and resources
 
-ML environment:
+## ML environment:
 There are multiple ways to develop and run machine learning models using a Windows 10 PC:
-1. Use a VM (virtual machine) to run a Linux Desktop. Adam Geitgey preconfigured a VM with the most popular tools you will need, including:
+### 1. Use a VM (virtual machine) to run a Linux Desktop. Adam Geitgey preconfigured a VM with the most popular tools you will need, including:
 * Python 3.5
 * OpenCV 3.2 with Python 3 bindings
 * dlib 19.9 with Python 3 bindings
@@ -20,7 +20,7 @@ Important information (cached):
 * VMware: http://www.vmware.com/products/player/playerpro-evaluation.html
 * The username is ‘deeplearning’ and the password is ‘deeplearning’.
 
-2. Cloud hosted using AWS with an AMI (Amazon Machine Image): Link: https://aws.amazon.com/marketplace/pp/B01EYKBEQ0/ref=_ptnr_wp_blog_post. Designed for developers as well as those eager to get started with the TensorFlow Deep Learning Framework.
+### 2. Cloud hosted using AWS with an AMI (Amazon Machine Image): Link: https://aws.amazon.com/marketplace/pp/B01EYKBEQ0/ref=_ptnr_wp_blog_post. Designed for developers as well as those eager to get started with the TensorFlow Deep Learning Framework.
 Develop with Python using Jupyter Notebook. Udacity assignments for Deep Learning with TensorFlow are pre-installed.
 Feature List:
   * Ubuntu 14 Linux
@@ -46,7 +46,7 @@ Feature List:
   * OpenCV
   * Jupyter to leverage Nvidia GPU as well as CPU instances.  
   
-3. Local development environment using Powershell and Python (incomplete)
+### 3. Local development environment using Powershell and Python (incomplete)
  Anaconda Windows (untested): https://www.anaconda.com/, https://docs.anaconda.com/anaconda/install/windows/
   * Python 2.7: https://repo.anaconda.com/archive/Anaconda2-2019.03-Windows-x86_64.exe
   * Python 3.7: https://repo.anaconda.com/archive/Anaconda3-2019.03-Windows-x86_64.exe
@@ -65,7 +65,10 @@ Feature List:
   * Holoviews - http://holoviews.org/
   
   
- Direct download 
+ ### 4.Direct download 
+  INstall [Python] (https://www.python.org/downloads/)
+  
   To use TFLearn you must install Curses however, Windows 10 is not supported. The workaround is to use windows-curses: https://pypi.org/project/windows-curses/
+  
   Install using powershell command: pip install windows-curses
   
