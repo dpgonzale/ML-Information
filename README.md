@@ -65,8 +65,8 @@ Feature List:
   * Holoviews - http://holoviews.org/
   
   
- ### 4.Direct download 
-  INstall [Python] (https://www.python.org/downloads/)
+ ### 4. Direct download 
+  Install [Python] (https://www.python.org/downloads/)
   
   To use TFLearn you must install Curses however, Windows 10 is not supported. The workaround is to use windows-curses: https://pypi.org/project/windows-curses/
   
