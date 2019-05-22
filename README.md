@@ -3,11 +3,7 @@ AI and Machine Learning setup and resources
 
 ## Keras Preprocessing (image):
 Functions for loading, converting, and saving image data. 
-The functions are in utils.py and exposed in image.py.
-
-image.py https://github.com/keras-team/keras/blob/master/keras/preprocessing/image.py
-
-utils.py: https://github.com/keras-team/keras-preprocessing/blob/master/keras_preprocessing/image/utils.py
+The functions are in [utils.py](https://github.com/keras-team/keras/blob/master/keras/preprocessing/image.py) and exposed in [image.py](https://github.com/keras-team/keras-preprocessing/blob/master/keras_preprocessing/image/utils.py).
 
 ## ML environment:
 There are multiple ways to develop and run machine learning models using a Windows 10 PC:
