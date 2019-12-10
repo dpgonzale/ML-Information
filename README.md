@@ -3,15 +3,16 @@ AI and Machine Learning setup and resources
 
 ## MLNotes.docx: Notes on Data Science and Machine Learning for beginners.
 
-## Keras Preprocessing (image):
-Functions for loading, converting, and saving image data. 
+## Keras Preprocessing: 
+Functions for loading, converting, and saving image data. Notes: on Keras installation dependencies
 The functions are in [utils.py](https://github.com/keras-team/keras/blob/master/keras/preprocessing/image.py) and exposed in [image.py](https://github.com/keras-team/keras-preprocessing/blob/master/keras_preprocessing/image/utils.py).
 
 Keras image preprocessing libraries requires installation of [Pillow Library](https://pillow.readthedocs.io/en/stable/installation.html).
 
 ## ML environment:
 There are multiple ways to develop and run machine learning models using a Windows 10 PC:
-### 1. Use a VM (virtual machine) to run a Linux Desktop. Adam Geitgey preconfigured a VM with the most popular tools you will need, including:
+### 1. Use a VM (virtual machine) to run a Linux Desktop. 
+Adam Geitgey preconfigured a VM with the most popular tools you will need, including:
 * Python 3.5
 * OpenCV 3.2 with Python 3 bindings
 * dlib 19.9 with Python 3 bindings
@@ -28,7 +29,8 @@ Important information (cached):
 * VMware: http://www.vmware.com/products/player/playerpro-evaluation.html
 * The username is ‘deeplearning’ and the password is ‘deeplearning’.
 
-### 2. Cloud hosted using AWS with an AMI (Amazon Machine Image): Link: https://aws.amazon.com/marketplace/pp/B01EYKBEQ0/ref=_ptnr_wp_blog_post. Designed for developers as well as those eager to get started with the TensorFlow Deep Learning Framework.
+### 2. Cloud hosted using AWS with an AMI 
+[Amazon Machine Image:](https://aws.amazon.com/marketplace/pp/B01EYKBEQ0/ref=_ptnr_wp_blog_post). Designed for developers as well as those eager to get started with the TensorFlow Deep Learning Framework.
 Develop with Python using Jupyter Notebook. Udacity assignments for Deep Learning with TensorFlow are pre-installed.
 Feature List:
   * Ubuntu 14 Linux
