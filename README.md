@@ -1,6 +1,8 @@
 # ML-Information
 AI and Machine Learning setup and resources
 
+## MLNotes.docx: Notes on Data Science and Machine Learning for beginners.
+
 ## Keras Preprocessing (image):
 Functions for loading, converting, and saving image data. 
 The functions are in [utils.py](https://github.com/keras-team/keras/blob/master/keras/preprocessing/image.py) and exposed in [image.py](https://github.com/keras-team/keras-preprocessing/blob/master/keras_preprocessing/image/utils.py).
