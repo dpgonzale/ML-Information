@@ -1,7 +1,8 @@
 # ML-Information
 AI and Machine Learning setup and resources
 
-## MLNotes.docx: Notes on Data Science and Machine Learning for beginners.
+## MLNotes.docx: 
+Notes on Data Science and Machine Learning for beginners. Includes references to online DataSets, resources and tutorials
 
 ## Keras Preprocessing: 
 Functions for loading, converting, and saving image data. Notes: on Keras installation dependencies
